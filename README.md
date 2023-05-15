@@ -1,1 +1,1 @@
-# email-scheduling-app
+# Scheduler App
