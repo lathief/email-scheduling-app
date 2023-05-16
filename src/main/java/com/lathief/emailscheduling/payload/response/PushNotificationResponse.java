@@ -8,6 +8,8 @@ import lombok.NoArgsConstructor;
 public class PushNotificationResponse {
     private int status;
     private String message;
+    private String jobId;
+    private String jobGroup;
 
     public PushNotificationResponse(int status, String message) {
         this.status = status;
